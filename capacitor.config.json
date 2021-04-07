@@ -1,6 +1,6 @@
 {
   "appId": "com.onephone",
-  "appName": "Houston Zoo",
+  "appName": "OnePhone",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
